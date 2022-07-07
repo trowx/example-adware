@@ -1,0 +1,1 @@
+Only use 16 or 24-bit images with bmp extension, otherwise it will not work.

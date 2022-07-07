@@ -1,0 +1,23 @@
+{
+  "rules": {
+    "status": 1,
+    "links": [
+      {
+        "top_center": "https://raw.githubusercontent.com/trowx/example-adware/main/banner/banner.bmp",
+        "duration": 60
+      },
+      {
+        "center": "https://raw.githubusercontent.com/trowx/example-adware/main/banner/banner2.bmp",
+        "duration": 10
+      },
+      {
+        "bottom_left": "https://raw.githubusercontent.com/trowx/example-adware/main/banner/banner.bmp",
+        "duration": 60
+      },
+      {
+        "bottom_right": "https://raw.githubusercontent.com/trowx/example-adware/main/banner/banner2.bmp",
+        "duration": 60
+      }
+    ]
+  }
+}
